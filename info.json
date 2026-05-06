@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "title": "Machine Levelup",
   "author": "fgardt",
+  "contact": "https://discord.gg/XxQttKnpZh",
   "homepage": "https://github.com/fgardt/factorio-machine-levelup",
   "description": "Machines upgrade their quality after crafting a certain amount of items.",
   "factorio_version": "2.0",

@@ -4,6 +4,7 @@
 # files that should not be modified
 *.png binary
 *.blend binary export-ignore
+*.xcf binary export-ignore
 
 # files that should not get included in a release zip
 README.md export-ignore
