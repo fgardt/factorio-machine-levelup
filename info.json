@@ -1,15 +1,15 @@
 {
-  "name": "[internal-mod-name]",
+  "name": "machine-levelup",
   "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "title": "Machine Levelup",
+  "author": "fgardt",
+  "homepage": "https://github.com/fgardt/factorio-machine-levelup",
+  "description": "Machines upgrade their quality after crafting a certain amount of items.",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "base >= 2.0.76"
   ],
-  "quality_required": false,
+  "quality_required": true,
   "rail_bridges_required": false,
   "space_travel_required": false,
   "spoiling_required": false,
