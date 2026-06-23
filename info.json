@@ -6,9 +6,9 @@
   "contact": "https://discord.gg/XxQttKnpZh",
   "homepage": "https://github.com/fgardt/factorio-machine-levelup",
   "description": "Machines upgrade their quality after crafting a certain amount of items.",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.0.76"
+    "base"
   ],
   "quality_required": true,
   "rail_bridges_required": false,
